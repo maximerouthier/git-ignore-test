@@ -1,0 +1,3 @@
+# Excludes everything except 'src' directory
+/*
+!/src/
